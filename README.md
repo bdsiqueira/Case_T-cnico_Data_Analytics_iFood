@@ -25,10 +25,11 @@ Desenvolvido utilizando Databricks, o estudo avalia se a distribuição de cupon
 - Medir impacto completo: Avaliar não apenas frequência, mas também retenção e LTV
 
 🔧 Tecnologias Utilizadas
-Databricks como ambiente de desenvolvimento
-PySpark para processamento de dados em larga escala
-Python (pandas, matplotlib, seaborn) para análises e visualizações
-SQL para transformação e agregação de dados
+[Notebook com todo o código de análise](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3784791387979450/4200594088774411/1562852484070077/latest.html)
+- Databricks como ambiente de desenvolvimento
+- PySpark para processamento de dados em larga escala
+- Python (pandas, matplotlib, seaborn) para análises e visualizações
+- SQL para transformação e agregação de dados
 
 📝 Conclusão
 Este estudo demonstra a importância de uma segmentação adequada e consideração de fatores sazonais em testes de marketing.
